@@ -1,5 +1,11 @@
 # Complexity-Crew-AAD-Project
 
+Files : 
+-> All folders contain .ipynb files for their respective algorithm
+-> README.md : This file
+-> AAD_Final_Report : The final report pdf
+-> Comparative-testing : The .ipynb file with the code used to compare the algorithms against each other on various metrics.
+
 This repo contains 5 different algorithm implementations for delaunay triangulation and dataset/benchmark code for the same.
 
 Prerequisites
